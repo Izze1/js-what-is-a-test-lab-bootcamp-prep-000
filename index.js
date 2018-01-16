@@ -6,4 +6,3 @@ var message = ` is ${height} inches tall`
 module.exports = {name, height, message}
 console.log(message)
 
-var message= `${name} is ${height} inches tall`
